@@ -1,4 +1,4 @@
-# Pure Fame for [Rusty Drill Community Project](https://www.doomworld.com/forum/topic/135665-rusty-drill-a-scythe-themed-community-project-slots-filled/) [1 Level, BOOM, DOOM 2]
+# Purity of Fame for [Rusty Drill Community Project](https://www.doomworld.com/forum/topic/135665-rusty-drill-a-scythe-themed-community-project-slots-filled/) [1 Level, BOOM, DOOM 2]
 
 # STATUS: 🏁WORK IN PROGRESS
 
