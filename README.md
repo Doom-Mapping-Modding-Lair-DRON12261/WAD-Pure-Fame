@@ -1,6 +1,6 @@
 # Purity of Fame for [Rusty Drill Community Project](https://www.doomworld.com/forum/topic/135665-rusty-drill-a-scythe-themed-community-project-slots-filled/) [1 Level, BOOM, DOOM 2]
 
-# STATUS: 🏁WORK IN PROGRESS
+# STATUS: 🧊FROZEN
 
 ## Resources in use:
 - [32in24-15_tex_v2.wad](https://esselfortium.net/wasd/32in24-15_tex_v2.zip)
