@@ -109,7 +109,7 @@ maps
 			resource0
 			{
 				type = 0;
-				location = "D:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
@@ -119,15 +119,15 @@ maps
 			resource1
 			{
 				type = 0;
-				location = "D:\\ABSOLUTE POWER\\Doom\\Resources\\Textures\\32in24-15_tex_v2.wad";
+				location = "E:\\ABSOLUTE POWER\\Doom\\Resources\\Textures\\32in24-15_tex_v2.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 				requiredarchives = "";
 			}
 		}
-		viewpositiony = -6493.314f;
-		viewpositionx = 10415.12f;
+		viewpositiony = -6231.747f;
+		viewpositionx = 9796.389f;
 		
 		testprecommand
 		{
@@ -147,11 +147,11 @@ maps
 			gridrotate = 0;
 			backscalex = 100;
 			gridoriginx = 0;
-			gridsize = 16;
+			gridsize = 32;
 			background = "";
 			backoffsety = 0;
 		}
-		viewscale = 2.285781f;
+		viewscale = 1.04041f;
 		
 		reloadresourceprecommand
 		{
